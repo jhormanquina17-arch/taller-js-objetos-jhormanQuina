@@ -9,3 +9,4 @@ console.log(persona.edad);
 console.log(persona.profesion);
 persona.telefono=3218905214;
 console.log(persona.telefono);
+//
